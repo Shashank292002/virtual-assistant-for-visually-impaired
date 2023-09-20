@@ -1,6 +1,5 @@
-# DobaraMatPuchana
 
-## Assistant for blind
+# Assistant for blind
 
 A *voice assistant* specifically aiming towards aiding the visually imapired.
 
